@@ -88,22 +88,6 @@ Suggestions for implementing autocomplete and adapters
 
 All architectural decisions, debugging, implementation, and final integration were completed manually.
 
- # Project Structure
-Android20/
-│
-├── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/com/example/android20/
-│   │   │   │   ├── MainActivity.java
-│   │   │   │   ├── PhotoAdapter.java
-│   │   │   │   └── (album/search/tag logic)
-│   │   │   └── res/
-│   │   │       ├── layout/*.xml
-│   │   │       ├── drawable/
-│   │   │       └── values/
-│   └── AndroidManifest.xml
-└── README.md
 
 # Getting Started
 
