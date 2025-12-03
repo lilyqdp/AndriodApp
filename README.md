@@ -1,8 +1,8 @@
-📸 Android Photo App
+# Android Photo App
 
 A lightweight mobile application for browsing, organizing, and tagging photos on Android.
 
-📱 Overview
+# Overview
 
 Android Photo App is a custom-built mobile application developed using Android Studio (Java + XML). The project focuses on creating an intuitive photo-organization tool where users can:
 
@@ -16,7 +16,7 @@ View thumbnails with a clean, responsive layout
 
 This project demonstrates mobile UI design, activity/intent flow, modular Java architecture, and user data handling on Android.
 
-✨ Features
+# Features
 ✔ Photo Importing
 
 Uses Android Image Picker with ACTION_OPEN_DOCUMENT
@@ -53,7 +53,7 @@ Suggestions generated from existing tags
 
 Results update live as the user types
 
-🛠 Tech Stack
+# Tech Stack
 
 Language: Java
 IDE: Android Studio (Hedgehog / Jellyfish compatible)
@@ -69,8 +69,7 @@ Image Picker
 URI Handling
 
 Adapters (BaseAdapter)
-
-🤖 GenAI Usage Disclosure
+# GenAI Usage Disclosure
 
 This project uses AI assistance responsibly to accelerate development.
 GenAI (ChatGPT) was used for:
@@ -89,7 +88,7 @@ Suggestions for implementing autocomplete and adapters
 
 All architectural decisions, debugging, implementation, and final integration were completed manually.
 
-📂 Project Structure
+ # Project Structure
 Android20/
 │
 ├── app/
@@ -106,7 +105,7 @@ Android20/
 │   └── AndroidManifest.xml
 └── README.md
 
-🚀 Getting Started
+# Getting Started
 
 Clone the repo:
 
